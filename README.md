@@ -1,0 +1,2 @@
+# icos
+Initial coin offerings
